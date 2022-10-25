@@ -1,0 +1,1 @@
+A linked list is a linear data structure in which the elements are not stored at contagious memory locations. Elements are linked using pointers and made up of two items that are data and a reference to the next node.
