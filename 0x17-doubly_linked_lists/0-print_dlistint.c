@@ -19,7 +19,3 @@ size_t print_dlistint(const dlistint_t *h)
 
 	return (nodes);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 7c9ba3df1f8513769f584e46a15d8f10ca00a003
