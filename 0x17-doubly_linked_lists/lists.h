@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #ifndef LISTS_H
-=======
-#ifndef LISTS-H
->>>>>>> 7c9ba3df1f8513769f584e46a15d8f10ca00a003
 #define LISTS_H
 
 #include <stdio.h>
@@ -35,7 +31,3 @@ dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n);
 int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 
 #endif /* LISTS_H */
-<<<<<<< HEAD
-
-=======
->>>>>>> 7c9ba3df1f8513769f584e46a15d8f10ca00a003
